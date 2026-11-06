@@ -1,0 +1,10 @@
+# Model weights are too large for a normal GitHub push (over 100 MB)
+*.pkl
+*.pth
+*.pt
+# Dataset images
+kvasir_dataset/
+kvasir-separado*
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

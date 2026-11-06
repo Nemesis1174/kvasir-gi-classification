@@ -1,0 +1,6 @@
+fastai
+albumentations
+scikit-learn
+pandas
+numpy
+tabulate
